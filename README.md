@@ -1,26 +1,132 @@
-<h1 align="center">Hi 👋, I'm Samith Dulaksha Dilshan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulaksha2006&label=Profile%20views&color=0e75b6&style=flat" alt="dulaksha2006" /> </p>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samith%20Dulaksha%20Dilshan&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Digital%20Creator&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulaksha2006" alt="dulaksha2006" /></a> </p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Full+Stack+Explorer+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%A4%9D;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [MoviePluz](moviepluz.lk)
+<br/>
 
-- 👨‍💻 All of my projects are available at [dulaksha.com](dulaksha.com)
-
-- 📫 How to reach me **hello@dulaksha.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/22282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="22282" height="30" width="40" /></a>
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dulaksha2006&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/dulaksha2006?label=Followers&style=for-the-badge&color=6E40C9&labelColor=1a1a2e" alt="Followers"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaksha2006&show_icons=true&locale=en&layout=compact" alt="dulaksha2006" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulaksha2006&show_icons=true&locale=en" alt="dulaksha2006" /></p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulaksha2006&" alt="dulaksha2006" /></p>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```yaml
+name: Samith Dulaksha Dilshan
+location: India 🇮🇳
+current_project: MoviePluz (moviepluz.lk)
+portfolio: dulaksha.com
+contact: hello@dulaksha.com
+status: Open to opportunities ✅
+```
+
+- 🔭 Currently building **[MoviePluz](http://moviepluz.lk)** — a next-gen movie platform
+- 🌱 Exploring **React, Next.js & Cloud Architecture**
+- 💡 I love turning ideas into **pixel-perfect, performant UIs**
+- 🎨 Passionate about **UI/UX design** and clean code
+- 💬 Ask me about **JavaScript, PHP, Node.js, or anything web**
+- 📫 Reach me at **hello@dulaksha.com**
+- ⚡ Fun fact: *I debug with console.log and I'm not ashamed*
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dulaksha2006&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7" alt="Trophies" width="100%"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>⚡ Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 Backend & Database</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgresql,mongodb,mariadb,firebase&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Design & Tools</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,git,docker,android,kotlin,arduino&theme=dark" />
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dulaksha2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulaksha2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulaksha2006&theme=tokyonight&hide_border=true&background=0d1117&stroke=6E40C9&ring=6E40C9&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" width="49%"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulaksha2006&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-dulaksha.com-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white)](http://dulaksha.com)
+[![Email](https://img.shields.io/badge/Email-hello@dulaksha.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@dulaksha.com)
+[![TopCoder](https://img.shields.io/badge/TopCoder-Profile-EF3F24?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/22282)
+[![MoviePluz](https://img.shields.io/badge/Project-MoviePluz-FF6B6B?style=for-the-badge&logo=film&logoColor=white)](http://moviepluz.lk)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  
+  <br/><br/>
+  
+  ⭐ **If you like my work, consider starring my repos!**
+</div>
