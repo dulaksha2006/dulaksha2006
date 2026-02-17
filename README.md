@@ -91,12 +91,10 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dulaksha2006&show_icons=true&theme=github_dark&hide_border=true&bg_color=000510&title_color=60a5fa&icon_color=1d4ed8&text_color=93c5fd&ring_color=1e3a8a" width="49%" alt="GitHub Stats"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulaksha2006&theme=github-dark-blue&hide_border=true&background=000510&ring=1d4ed8&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=93c5fd&dates=1d4ed8" width="49%" alt="GitHub Streak"/>
 
-<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulaksha2006&layout=compact&theme=github_dark&hide_border=true&bg_color=000510&title_color=60a5fa&text_color=93c5fd" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -129,7 +127,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:000d1a,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
